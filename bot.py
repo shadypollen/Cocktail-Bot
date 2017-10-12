@@ -1,10 +1,7 @@
 """
 TODO:
-	*Final output should show cocktail name, what ingredients you don't have and instructions
 	*Choose which drink you want out of the top n
-	*Fetch again the ingredients and look what you don't have
 	*Exception when 0 mathces
-	*Finally, present what ingredients you don't have and the instructions
 """
 
 import sqlite3
