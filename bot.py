@@ -34,6 +34,7 @@ def main():
 	print("The ingredients you need to get are: ", haveNotString, "\r") 
 	print("\n")
 	print("Instructions: ", bestDrinkInstructions)
+	conn.close()
 
 
 def makeTable():
